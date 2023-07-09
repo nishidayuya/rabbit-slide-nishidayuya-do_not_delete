@@ -1,6 +1,8 @@
-# TODO: スライドのタイトル
+# 削除操作 しない・させない・ゆるさない
 
-TODO: スライドの説明
+[Redmine Japan Vol.3](https://redmine-japan.org/timetable/#b07-1) の発表資料
+
+2023-07-07に開催された．
 
 ## 作者向け
 
@@ -16,9 +18,8 @@ TODO: スライドの説明
 
 ### インストール
 
-    gem install rabbit-slide-nishidayuya-nishidayuya-do_not_delete
+    gem install rabbit-slide-nishidayuya-do_not_delete
 
 ### 表示
 
-    rabbit rabbit-slide-nishidayuya-nishidayuya-do_not_delete.gem
-
+    rabbit rabbit-slide-nishidayuya-do_not_delete.gem
