@@ -1,18 +1,21 @@
 ---
-id: nishidayuya-do_not_delete
+id: do_not_delete
 base_name: do_not_delete
-tags: []
-presentation_date:
+tags:
+  - Redmine
+  - RedminePlugin
+presentation_date: "2023-07-07"
 presentation_start_time:
 presentation_end_time:
-version: 1.0.0
-licenses: []
+version: 1.2023.07.07.0
+licenses:
+  - X11 License
 slideshare_id:
 speaker_deck_id:
 vimeo_id:
 youtube_id:
-width: 800
-height: 600
+width: 1368
+height: 768
 source_code_uri:
 author:
   markup_language: :markdown
