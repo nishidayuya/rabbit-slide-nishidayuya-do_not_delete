@@ -42,9 +42,9 @@ Issueの行で右クリック
 curl --silent \
   --dump-header - \
   --header 'Content-Type: application/json' \
-  --header 'X-Redmine-API-Key: f1dcd7245a6bb18d36df3a1d2bebde9f1fc99280 \
+  --header 'X-Redmine-API-Key: f1dcd7245a6bb18d36df3a1d2bebde9f1fc99280' \
   --request DELETE \
-  http://localhost:3000/issues/2.json'
+  http://localhost:3000/issues/2.json
 ```
 
 ## 一時的な削除有効化
